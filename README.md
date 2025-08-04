@@ -1,16 +1,5 @@
 # HomeFreely Plugin Wiki
 
-## 📋 Table of Contents
-1. [Plugin Overview](#plugin-overview)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Commands](#commands)
-5. [Permissions](#permissions)
-6. [Configuration](#configuration)
-7. [Permission Groups](#permission-groups)
-8. [Custom Messages](#custom-messages)
-9. [FAQ](#faq)
-10. [Changelog](#changelog)
 
 ---
 

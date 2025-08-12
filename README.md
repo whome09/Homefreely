@@ -82,13 +82,6 @@ Homefreely/
 | **premium** | 5 homes         | World restrictions  |
 | **admin**   | Unlimited homes | All permissions     |
 
-## 🔗 Related Links
-
-- [📋 Configuration Guide](CONFIG.md) - Detailed configuration instructions
-- [⌨️ Commands Guide](COMMANDS.md) - All command usage methods
-- [🔐 Permissions Guide](PERMISSIONS.md) - Permission system details
-- [⚙️ API Guide](API.md) - Developer interface documentation
-
 ## 💡 Usage Recommendations
 
 ### Newbie Servers
